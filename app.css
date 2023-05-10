@@ -1,0 +1,96 @@
+/* Estilos para el cuerpo de la página */
+body {
+    background-color: #FCE4EC; /* Color de fondo suave */
+    font-family: Arial, sans-serif; /* Fuente predeterminada */
+    color: #444444; /* Color de texto oscuro */
+}
+
+/* Estilos para el encabezado */
+h1 {
+    font-size: 2.5rem; /* Tamaño grande de fuente */
+    text-align: center; /* Centrar el texto */
+    color: #FF69B4; /* Color de texto rosa */
+    margin-top: 2rem; /* Margen superior de 2 rem */
+}
+
+/* Estilos para la imagen */
+img {
+    display: block; /* Mostrar la imagen como un bloque */
+    margin: auto; /* Centrar la imagen horizontalmente */
+    border: 5px solid #FF69B4; /* Borde rosa alrededor de la imagen */
+    border-radius: 10px; /* Redondear las esquinas del borde */
+    box-shadow: 5px 5px 5px #888888; /* Sombra suave debajo de la imagen */
+}
+
+/* Estilos para el video */
+video {
+    display: block; /* Mostrar el video como un bloque */
+    margin: auto; /* Centrar el video horizontalmente */
+    box-shadow: 5px 5px 5px #888888; /* Sombra suave debajo del video */
+}
+
+/* Estilos para los botones */
+button {
+    background-color: #FF69B4; /* Color de fondo rosa */
+    color: white; /* Color de texto blanco */
+    border: none; /* Eliminar el borde */
+    padding: 1rem; /* Agregar espacio alrededor del texto */
+    font-size: 1.2rem; /* Tamaño de fuente grande */
+    border-radius: 5px; /* Redondear las esquinas del botón */
+    cursor: pointer; /* Cambiar el cursor al pasar el mouse sobre el botón */
+    box-shadow: 3px 3px 3px #888888; /* Sombra suave alrededor del botón */
+    margin-top: 2rem; /* Margen superior de 2 rem */
+}
+
+/* Estilos para el botón "SI" */
+.btn_si {
+    margin-right: 2rem; /* Margen derecho de 2 rem */
+}
+
+/* Estilos para el botón "no :(" */
+.btn_no {
+    background-color: #444444; /* Cambiar el color de fondo a gris oscuro */
+}
+
+.main{
+    text-align: center;
+}
+
+.btn-group{
+    display: flex; /* Mostrar los botones en línea */
+    justify-content: center; /* Centrar horizontalmente los botones */
+    margin-top: 2rem; /* Margen superior de 2 rem */
+
+}
+
+#page1{
+    display: none;
+}
+#page2{
+    display: none;
+}
+#page3{
+    display: none;
+}
+#page4{
+    display: none;
+}
+#page5{
+    display: none;
+}
+#page6{
+    display: none;
+}
+#page7{
+    display: none;
+}
+#page8{
+    display: none;
+}
+
+
+.images{
+    display: flex; /* Mostrar los botones en línea */
+    justify-content: center; /* Centrar horizontalmente los botones */
+    margin-top: 2rem; /* Margen superior de 2 rem */
+}
